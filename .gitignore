@@ -12,6 +12,6 @@
 .vscode
 
 config.robot
-local.robot
+var.robot
 .DS_Store
 __pycache__
