@@ -1,0 +1,4 @@
+*** Variables ***
+${REMOTE_URL}       https://github.com
+${EMAIL}            otomasinguji@gmail.com
+${PASSWORD}         PP@ssw0rdNguji1!
