@@ -1,4 +1,8 @@
 *** Variables ***
-${REMOTE_URL}       https://github.com
-${EMAIL}            otomasinguji@gmail.com
-${PASSWORD}         PP@ssw0rdNguji1!
+${REMOTE_URL}           https://github.com
+${BROWSER}              chrome
+${EMAIL}                otomasinguji@gmail.com
+${PASSWORD}             P@ssw0rdNguji1!
+${GIST_NAME}            testing.java
+${GIST_DATA}            System.out.println('Happy holiday')
+${GIST_DATA_UPDATE}     System.out.println('Holiday is end')
