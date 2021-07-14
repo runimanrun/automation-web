@@ -11,7 +11,6 @@
 .pabotsuitenames
 .vscode
 
-config.robot
 var.robot
 .DS_Store
 .idea
