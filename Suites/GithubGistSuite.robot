@@ -23,8 +23,8 @@ User View All Gists
 User View Gists Details
     View Gists Details
 
-User Edit Gists
-    Edit Gists                      ${GIST_DATA_UPDATE}
+# User Edit Gists
+#     Edit Gists                      ${GIST_DATA_UPDATE}
 
 # User Delete Gists
 #     Delete Gist
