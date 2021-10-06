@@ -26,5 +26,5 @@ User View Gists Details
 User Edit Gists
     Edit Gists                      ${GIST_DATA_UPDATE}
 
-User Delete Gists
-    Delete Gist
+# User Delete Gists
+#     Delete Gist
